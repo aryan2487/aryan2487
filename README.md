@@ -2,7 +2,7 @@
 
 I am a BTech student in CSE core 
 Year: 2025-29
-I would like to learn about programming in languages such as C++ nad Java
+I would like to learn about programming in languages such as C++ and Java
 
 <!--
 **aryan2487/aryan2487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
